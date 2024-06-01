@@ -15,6 +15,10 @@ For Jenkins exercise
   * Test (Opcional)
   * Build --> puedes generar un artefacto de tu preferencia ( .jar, Imagen Docker)
   * Deploy --> ejecuta el artefecto generado en tu entorno (ya sea un API o aplicación de consola)
+* En Azure DevOps en el mismo pipeline en un segundo task debes hacer :
+  * Un script en bash o powershell que:
+    * Numero random mayor que 10 durante 5 intentos
+    * buscar dentro del directorio del repositorio el jenkins file e imprimirlo
  
 # Reglas
 
