@@ -2,7 +2,7 @@
 For Jenkins exercise 
 
 # Pre-requisitos
-1.Docker
+1. Docker
 2. Organización de Azure DevOps
 
 # Requerimiento
